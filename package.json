@@ -6,8 +6,7 @@
     "react",
     "antd",
     "webpack",
-    "styleguidist",
-    "otorio"
+    "styleguidist"
   ],
   "main": "dist/main.js",
   "scripts": {
@@ -19,9 +18,9 @@
     "postbuild": "npm pack && tar -xvzf *.tgz && rm -rf package *.tgz",
     "prepublishOnly": "npm run build"
   },
-  "author": "noammanyfler@gmail.com",
+  "author": "mhall.mailbox@gmail.com",
   "license": "GPL-3.0-or-later",
-  "repository": "github:noammanyfler/otorio-components",
+  "repository": "github:cayman1066/otorio-components",
   "peerDependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
