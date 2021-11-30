@@ -1,7 +1,7 @@
 {
-  "name": "otorio-components",
+  "name": "cayman-components",
   "version": "0.0.9",
-  "description": "Otorio react components library boilerplate",
+  "description": "Cayman react components library boilerplate",
   "keywords": [
     "react",
     "antd",
@@ -20,7 +20,7 @@
   },
   "author": "mhall.mailbox@gmail.com",
   "license": "GPL-3.0-or-later",
-  "repository": "github:cayman1066/otorio-components",
+  "repository": "github:cayman1066/cayman-components",
   "peerDependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
