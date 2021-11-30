@@ -20,7 +20,7 @@
   },
   "author": "mhall.mailbox@gmail.com",
   "license": "GPL-3.0-or-later",
-  "repository": "github:cayman1066/cayman-components",
+  "repository": "git+https://cayman1066/cayman-components",
   "peerDependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
